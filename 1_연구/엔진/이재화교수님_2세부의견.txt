@@ -1,0 +1,28 @@
+이재화 교수님 의견
+
+. STANAG 4671의 Qualification은 150kg 이상 무인기 부터 적용되는 규격의 성격에 따라 추가된 사항으로 판단
+- 즉 형식인증이 있는 엔진 중에 일단 무게가 600kg 미만 무인기에 적용할 만한 물건이 없음
+
+. 개념적으로 Qualification 의미는 항공기에 이 엔진을 장착해도 됨을 승인하는 것임
+- 항공엔진은 표준감항인증기준이 없으므로 Certification이라는 용어를 사용하지 못하고 Qualification 용어를 사용하고 있음
+- 항공엔진의 Qualification에 어떤 검토 항목 또는 기준을 사용하는 지는 국내 감항인증당국이 앞으로 축적해야 하는 감항인증기술임
+
+
+. 개발자의 개발활동을 격려하는 수준에서 수행하는 Qualification
+-  즉, 개발자 개발규격을 충족하면 제한된 엔진의 비행영역에서 항공기 비행을 허가 할 수는 있음
+- 하지만, 이것이 Qualification으로 연계되어 직접적인 Qual을 줄 수 있다고 하는 것은 잘못된 것임
+- FAR 23 내용 참고
+(b) Each airplane engine and propeller must be type certificated, except for engines and propellers installed on
+level 1 low-speed airplanes, which may be approved under the airplane type certificate in accordance with a standard
+accepted by the Administrator that contains airworthiness criteria the Administrator has found appropriate and
+applicable to the specific design and intended use of the engine or propeller and provides a level of safety acceptable to the Administrator.
+
+(b) 모든 항공기 엔진과 프로펠러는 형식 인증을 받아야 합니다. 
+단, 레벨 1 저속 항공기에 설치된 엔진과 프로펠러는 예외로 하며, 해당 엔진과 프로펠러는 관리자가 특정 설계 및 의도된 용도에 적합하고 적용 가능하다고 판단한 감항성 기준을 포함하고,
+관리자가 수용할 수 있는 수준의 안전을 제공하는, 관리자가 승인한 표준에 따라 항공기 형식 인증서에 따라 승인될 수 있습니다.
+
+
+. 결과적으로, 항공엔진의 형식인증(감항인증)을 못 받는 엔진을 기체와 결합하여 사용하기 위한 저속항공기의 경우,
+(항공엔진 형식인증을 받은 엔진을 사용하기 곤란한 저속항공기에 대해)
+- 개발자가 감항기준을 내고 당국이 승인하는 형태를 허용하고 있음
+- 즉, Qualification도 유사하게 동등 안전수준 개념을 적용한 감항당국의 승인 개념으로 해석하는 것도 가능할 것으로 판단함
