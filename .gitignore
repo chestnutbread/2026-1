@@ -14,5 +14,6 @@ test.txt
 1_연구/엔진/553322490-Warren-F-Phillips-Mechanics-of-Flight-2004.pdf
 1_연구/엔진/TPE331 제원/692982076-Garrett-TPE-331-10-Maintenance-Manual.pdf
 1_연구/엔진/군용엔진관품질인증관련문서모음압축/JSSG-2008.pdf
-3_과제/왕복엔진/터빈엔진사이클모델링.zip
-3_과제/왕복엔진/터빈엔진사이클모델링/(2024년)(감항인증일반교육자료)제24-1차 감항인증 일반.pdf
+
+# 과제 폴더 제외
+3_과제/
