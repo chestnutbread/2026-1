@@ -1,5 +1,0 @@
-Python
-https://github.com/OpenMDAO/pyCycle
-
-MATLAB/Simulink
-https://github.com/nasa/T-MATS/blob/master/Trunk/TMATS_Users_Guide_TM-2014-216638.pdf
